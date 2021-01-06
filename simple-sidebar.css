@@ -309,6 +309,10 @@ div.ex3 {
 .name{
   margin-left: 35px;
 }
+
+.name2{
+  margin: auto;
+}
 .what{
   margin-left: 50px;
 }
